@@ -23,6 +23,18 @@ body {
     padding: 20px 0;
 }
 
+.container-tic {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.tic {
+    width: 60px;
+    height: 45px;
+    max-width: 100%;
+}
+
 .container {
     display: flex;
     flex-direction: column;
